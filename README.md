@@ -6,7 +6,7 @@ and overnight builder agents that work while I sleep.
 
 ---
 
-**Independent founder + AI systems builder**
+**UX Designer turned Independent founder + AI systems builder**
 Prototype → production: [ClassFoundry](https://classfoundry.io) — AI-powered student feedback platform, live
 Autonomous agents: overnight research pipeline, multi-session memory, scheduled task execution
 Hands-on with Claude API, MCP servers, Flask, React
