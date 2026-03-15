@@ -26,7 +26,7 @@ Hands-on with Claude API, MCP servers, Flask, React
 
 ### Currently Building
 
-- 🔧 **[huginn](https://github.com/gitnelson/huginn)** - an open-source pattern for running autonomous Claude agents on a schedule *(coming soon)*
+- 🔧 **[huginn](https://github.com/gitnelson/huginn)** - an open-source pattern for running autonomous Claude agents on a schedule
 - 📚 **ClassFoundry** - expanding from feedback generation into assignment grading and report building
 
 ---
